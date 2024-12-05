@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# commiting input to git is not legal in advent of code it seems -> https://www.reddit.com/r/adventofcode/wiki/faqs/copyright/inputs/
+input.txt
+
 # Distribution / packaging
 .Python
 build/
