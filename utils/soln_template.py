@@ -1,5 +1,6 @@
 def main():
-    pass
+    from utils.common_utils import read_file_input
+    file_input = read_file_input('day-07/input.txt')
 
 if __name__ == '__main__':
     import os
