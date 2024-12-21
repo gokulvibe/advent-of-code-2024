@@ -1,0 +1,1 @@
+ANTINODE_SYMBOL = '@'
