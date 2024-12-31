@@ -8,6 +8,7 @@ __pycache__/
 
 # commiting input to git is not legal in advent of code it seems -> https://www.reddit.com/r/adventofcode/wiki/faqs/copyright/inputs/
 input.txt
+soln.txt
 
 # Distribution / packaging
 .Python
